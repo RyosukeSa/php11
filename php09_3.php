@@ -1,1 +1,0 @@
-Route::get('XXX', 'Admin\AAAController@bbb');
